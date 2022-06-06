@@ -10,9 +10,15 @@ body {
     padding: 0;
 }
 
-div{
+header {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    padding-left: 1rem;
     background-color: #1f8c9c ;
     color: white;
     font-family:'Lato', sans-serif;
     font-weight:bolder;
+    height: 10%;
+    font-size: 3rem;
 }
